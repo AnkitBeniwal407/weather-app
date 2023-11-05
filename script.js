@@ -52,4 +52,4 @@ document
     }
   });
 
-weather.fetchWeather("Nashik");
+weather.fetchWeather("Hanumangarh");
